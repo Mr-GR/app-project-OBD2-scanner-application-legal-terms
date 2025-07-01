@@ -1,4 +1,23 @@
-# Getting Started with Create React App
+# OBD2 Scanner Legal Documents
+
+A simple React web application that serves legal documents (Terms of Service and Privacy Policy) for the OBD2 Scanner mobile application. Designed to be embedded in FlutterFlow WebViews for seamless legal document presentation.
+
+## Overview
+
+This static React site provides professionally formatted legal documents that can be easily maintained and updated without requiring mobile app store releases. The application features:
+
+- Clean, professional document formatting
+- Mobile-responsive design
+- Collapsible navigation menu
+- Direct route access for WebView integration
+
+## Available Routes
+
+- `/` - Home page with navigation to legal documents
+- `/terms` - Terms of Service page
+- `/privacy` - Privacy Policy page
+
+## Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
